@@ -1,0 +1,11 @@
+{
+  "pirate_disc": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "chickenseconomy:records/pirate_disc",
+        "stream": true
+      }
+    ]
+  }
+}
